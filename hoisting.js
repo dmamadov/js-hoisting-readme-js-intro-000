@@ -9,9 +9,9 @@ function callMe() {
 }
 
 
-function thisIsCrazy() {
+function crazy() {
   // fix the code in here:
-  thisIsCrazy();
+  crazy();
 
   var thisIsCrazy = function (){
     console.log("hey!!!")
